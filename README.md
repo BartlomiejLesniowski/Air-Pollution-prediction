@@ -1,4 +1,4 @@
-# Data Science - Air-Pollution-prediction
+# Data Science - Air-Pollution-Prediction
 
 Dataset can be downloaded from Kaggle.com - https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment/data
 
